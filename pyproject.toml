@@ -6,6 +6,9 @@ authors = ["talahajeer <tala.hajeer@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+requests = "^2.25.1"
+bs4 = "^0.0.1"
+jupyterlab = "^3.0.16"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
